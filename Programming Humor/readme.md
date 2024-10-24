@@ -11,3 +11,6 @@ sch:
   - [Interview with a Senior Python Developer - Part1](https://youtu.be/BgxklT94W0I)
     - [Interview with a Senior Python Developer - Part2](https://youtu.be/xyrgkui0uCA)
 - [Interview with FFMPEG enthusiast](https://youtu.be/9kaIXkImCAM)
+
+# Relation:
+- [Interview with Sr. C Dev | Prime Reacts](https://youtu.be/LbZI-Dgp_TU)
